@@ -1,0 +1,1 @@
+# Muti-Disease-Detection-using-Machine-Learning
